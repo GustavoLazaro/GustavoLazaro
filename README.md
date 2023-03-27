@@ -7,8 +7,8 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLazaro&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLazaro&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLazaro&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLazaro&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
