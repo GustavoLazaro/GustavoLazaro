@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gustavo Lázaro 👋
 
 - 🌱 Atualmente cursando **Engenharia de software**
-- 🔭 Fazendo parte do **Programa Desenvolve** realizado pelo grupo Boticário em parceria com a Alura
+- 🔭 Fazendo parte do **AWS re-Start** realizado pela Escola da nuvem
 - 🤔 Focado em **Engenharia de dados**
 - 💬 Linguagens em foco: **Python e SQL**
 
